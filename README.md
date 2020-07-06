@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://harikrishna.netlify.app/images/profile.gif" height="300px">
+  <br />
   <samp>
     <br />
     <a href="https://harikrishna.netlify.app/" target="_blank">Resume</a>
