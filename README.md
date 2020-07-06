@@ -6,8 +6,7 @@
   <samp>
     I'm Hari Krishna. Full Stack Developer.
     <br /><br />
-    My profile 
-    <a href="https://harikrishna.netlify.app/" target="_blank">Resume</a><br />
+    <a href="https://harikrishna.netlify.app/" target="_blank">Resume</a>
     <a href="https://www.linkedin.com/in/anemharikrishna" target="_blank">LinkedIn</a>
   </samp>
 </p>
