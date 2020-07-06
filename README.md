@@ -1,7 +1,7 @@
 ### Hi all 👋
 
 <p align="center">
-  <img src="https://harikrishna.netlify.app/favicon.png" width="250px" height="250px">
+  <img src="https://harikrishna.netlify.app/images/profile.gif">
   <br /><br />
   <samp>
     I'm Hari Krishna. ReactJS, NodeJS and PHP Developer.
