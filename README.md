@@ -4,7 +4,6 @@
   <img src="https://harikrishna.netlify.app/images/profile.gif">
   <br /><br />
   <samp>
-    I'm Hari Krishna. ReactJS, NodeJS and PHP Developer.
     <br /><br />
     <a href="https://harikrishna.netlify.app/" target="_blank">Resume</a>
     <a href="https://www.linkedin.com/in/anemharikrishna" target="_blank">LinkedIn</a>
