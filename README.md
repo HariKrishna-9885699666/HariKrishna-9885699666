@@ -6,7 +6,6 @@
   <samp>
     <br />
     <a href="https://harikrishna.netlify.app/" target="_blank">Resume</a>
-    <a href="https://www.linkedin.com/in/anemharikrishna" target="_blank">LinkedIn</a>
   </samp>
   <br />
   <p align="center">
