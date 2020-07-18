@@ -11,7 +11,7 @@
   <br /><hr />
   <p align="center">
     :email: anemharikrishna@gmail.com<br />
-    :telephone_receiver: 9885699666
+    :telephone_receiver: 9885699666<br />
     <i>Let's connect.</i>
     <p align="center">
       <a href="https://www.linkedin.com/in/anemharikrishna" alt="Linkedin"><img src="https://github.com/HariKrishna-9885699666/HariKrishna-9885699666/blob/master/linkedin.png"></a>
