@@ -5,7 +5,7 @@
   <br />
   <samp>
     <br />
-    <a href="https://harikrishna.netlify.app/" target="_blank">Resume</a>
+    <a href="https://harikrishna.netlify.app/" target="_blank">Portfolio</a>
   </samp>
   <br />
   <p align="center">
