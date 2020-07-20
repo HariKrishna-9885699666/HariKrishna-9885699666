@@ -9,8 +9,8 @@
   </samp>
   <br />
   <p align="center">
-    :email: anemharikrishna@gmail.com<br />
-    :telephone_receiver: 9885699666<br />
+    :email:&nbsp;&nbsp;anemharikrishna@gmail.com<br />
+    :telephone_receiver:&nbsp;&nbsp;9885699666<br />
   </p>
   <hr />
   <p align="center">
