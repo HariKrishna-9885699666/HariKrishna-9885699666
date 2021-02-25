@@ -1,7 +1,7 @@
 ### Hi all 👋
 
 <p align="center">
-  <img src="https://harikrishna.netlify.app/images/profile.gif" style="height: auto">
+  <img src="https://image.prntscr.com/image/RirO3Q2eRJe4KwDO-mDEHA.gif" style="height: auto">
   <br />
   <samp>
     <br />
