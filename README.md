@@ -6,6 +6,8 @@
   <samp>
     <br />
     <a href="https://harikrishna.netlify.app/" target="_blank">Portfolio</a>
+    <br />
+    <a href="https://harikrishna.hashnode.dev/" target="_blank">Blog</a>
   </samp>
   <br />
   <p align="center">
