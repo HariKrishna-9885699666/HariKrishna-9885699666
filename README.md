@@ -19,6 +19,6 @@
     <a href="https://www.linkedin.com/in/anemharikrishna" alt="Linkedin"><img src="https://github.com/HariKrishna-9885699666/HariKrishna-9885699666/blob/master/linkedin.png"></a>
     <a href="https://www.facebook.com/anemharikrishna" alt="Facebook"><img src="https://github.com/HariKrishna-9885699666/HariKrishna-9885699666/blob/master/facebook.png"></a>
     <a href="https://github.com/HariKrishna-9885699666" alt="GitHub"><img src="https://github.com/HariKrishna-9885699666/HariKrishna-9885699666/blob/master/github.png"></a>
-    <a href="https://youtube.com/@thecodezine" alt="GitHub"><img src="https://github.com/HariKrishna-9885699666/HariKrishna-9885699666/blob/master/youtube.png"></a>
+    <a href="https://youtube.com/@thecodezine" alt="Youtube"><img src="https://github.com/HariKrishna-9885699666/HariKrishna-9885699666/blob/master/youtube.png" width="32px" height="32px"></a>
   </p>
 </p>
