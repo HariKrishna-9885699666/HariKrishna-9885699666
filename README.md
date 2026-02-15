@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hari Krishna Anem
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;TypeScript+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Developer;TypeScript+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
@@ -73,32 +73,6 @@ I'm a **passionate full-stack developer** with expertise in building scalable we
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariKrishna-9885699666&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishna-9885699666&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-### 🎮 [Sudoku Game](https://github.com/HariKrishna-9885699666/sudoku-game)
-An interactive web-based Sudoku game built with React, Next.js, and TailwindCSS featuring real-time validation and dynamic puzzle generation.
-
-**Tech**: React • Next.js • TypeScript • TailwindCSS
-
----
-
-💡 *More projects coming soon!*
-
-</div>
-
----
-
 ## 📈 Current Focus
 
 - 🔨 Building scalable web applications with modern tech stacks
@@ -115,7 +89,7 @@ An interactive web-based Sudoku game built with React, Next.js, and TailwindCSS 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anemharikrishna)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harikrishna)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://harikrishna.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://harikrishna.is-a-good.dev/)
 [![Blog](https://img.shields.io/badge/Blog-2D2D2D?style=for-the-badge&logo=hashnode&logoColor=white)](https://harikrishna.hashnode.dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anemharikrishna@gmail.com)
 
