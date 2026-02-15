@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hari Krishna Anem
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;Technical+Architect;React+%2F+Node.js+%2F+TypeScript+Engineer;Cloud-Native+%26+Serverless+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00D9FF&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;Technical+Architect;React+%2F+Node.js+%2F+TypeScript+Engineer;Cloud-Native+%26+Serverless+Specialist" alt="Typing SVG" />
 </div>
 
 ---
