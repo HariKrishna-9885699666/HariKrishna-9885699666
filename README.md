@@ -98,7 +98,7 @@ I have led teams, collaborated with cross-functional stakeholders, and worked ex
 
 ---
 
-## 🧭 Professional Experience (High-Level)
+## 🧭 Professional Experience
 
 ### 🔹 Technical Architect – Carnera Technologies  
 **May 2024 – Present | Pune (Remote)**  
@@ -154,10 +154,6 @@ In these roles, I worked on **PHP-based web applications**, performing **full st
 
 **Bachelor of Technology – Computer Science and Information Technology**  
 Godavari Institute of Engineering and Technology  
-
----
-
-> 💡 *Additional enterprise and cloud projects are part of my professional work history (Carnera, TCS, West Agile Labs, Wenable, etc.) and reflect experience with large-scale systems, but are not always publicly accessible.*
 
 ---
 
