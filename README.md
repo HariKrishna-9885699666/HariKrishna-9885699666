@@ -1,4 +1,6 @@
-<a href="https://hits.sh/github.com/HariKrishna-9885699666/"><img alt="Hits" src="https://hits.sh/github.com/HariKrishna-9885699666.svg?label=Profile%20Views&color=007bff&style=for-the-badge" width="200" height="30" /></a>
+<div align="center">
+<a href="https://hits.sh/github.com/HariKrishna-9885699666/"><img alt="Hits" src="https://hits.sh/github.com/HariKrishna-9885699666.svg?label=Profile%20Views&color=007bff&style=for-the-badge" width="350" height="50" /></a>
+</div>
 
 # 👋 Hello, I'm Hari Krishna Anem
 
