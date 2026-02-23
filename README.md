@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/HariKrishna-9885699666.svg?label=Profile%20Views&color=007bff)](https://hits.sh/github.com/HariKrishna-9885699666/)
+
 # 👋 Hello, I'm Hari Krishna Anem
 
 <div align="center">
